@@ -9,14 +9,14 @@ body {
 }
 
 .App {
-  background-image: url(./Assets/palmera.jpg);
+  background-image: url(./Assets/calido.jpg);
   background-size: cover;
   background-position: bottom;
   transition: 0.4 ease;
 }
 
 .App.frio {
-  background-image: url(./Assets/frio.jpg);
+  background-image: url(./Assets/calid.jpg);
 }
 
 main {
